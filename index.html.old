@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html {
+        background-color: #0e36a1;
+        color: #FFFFFF:
+        text-align: center;
+        text-decoration: italic;
+        border: 5px solid white;
+        font-family: "Comic Sans MS", "cursive", "sans-serif";
+        font-size: 18px;
+        background-image: url("gh.png");
+     }
+#wrapper {
+text-align: center;
+text-decoration: italic;
+border: 5px solid white;
+}
+</style>
+</head>
+<body>
+        <div id="wrapper">
+        Huirou Tuija Sweetome Vacation Rentals<br>
+        128$ global<br>
 
+        Flight Helsinki-Beijing 434$ 13:45h<br>
+        meno-paluu global<br>
+        
+                <a href="blog01.html">TETST</a>
+        <div>
+                <h1>Matkan nähtävyydet</h1>
+                <img src="edge.jpg" alt="KIINA" width="512" height="256">
+                <img src="aaac.jpeg" alt="KIINA2" width="341" height="280">
+                <p>Taivaan temppeli eli Tiantan on Pekingissä sijaitseva temppelikompleksi, jossa Ming- ja Qing-dynastioiden aikana (1368–1911) keisari kävi uhraamassa taivaan jumalalle joka vuosi talvipäivän seisauksen aikana.</p>
+                <p>Kiinan muuri on monesta osasta koostuva, yleisten määritelmien mukaan 6 000 – 9 000 kilometrin mittainen ja laajimman määritelmän mukaan jopa yli 20 000 kilometrin mittainen muinainen rakennelma pohjoisessa Kiinassa. Muuri on suurimmaksi osaksi noin kahdeksan metriä korkea ja leveydeltään 6–8 metriä. Se on rakennettu maasta, kivestä ja tiilistä.</p>
+                
+                
+                <p>Kiinan muuri on iso muuri.</p>
+                <p>Kiina on noin 1,4 miljardilla asukkaallaan väkiluvultaan maailman suurin maa ja pinta-alaltaan kolmanneksi suurin Venäjän ja Kanadan jälkeen.<br></p>
+                Pinta-ala:    9 596 961 km² <br>
+                <p><br>Viralliset Kielet: mandariinikiina, paikoittain korea, mongoli ja tiibet</p>
+                <p>Aasian monsuunit korostavat vuodenaikojen eroja</p><br>
+                <p>Lämpötilaerot maan osien välillä ovat silloin suurimmillaan, pohjoisimman provinssin Heilongjiangin keskilämpötila on talvikuukausina pakkasen puolella ja ajoittain jopa -30 astetta</p>
+                <h1>KULTTUURI</h1>
+                <p>Kiinalainen kulttuuri on yksi maailman vanhimmista kulttuureista, ja kehittynyt tuhansien vuosien aikana. Kulttuurin omaleimaisuus näkyy niin keramiikassa, arkkitehtuurissa, musiikissa, kirjallisuudessa, ruuassa, taiteessa, filosofiassa kuin uskonnoissakin.
+                <p>Kiinalainen keittiö sisältää paljon riisiä. Ruokailussa käytetään yleensä puikkoja ja keittoja syödessä lusikkaa. Veistä ja haarukkaa pidetään kiinassa aseina. Kiinalainen ruokakulttuuri voidaan jakaa karkeasti neljään osaan. Kantonissa yksi tunnetuimmista  ruokalajeista on lohikäärme taistelee tiikerin kanssa ruuan perus raaka-aineita on  kissa ja käärme. Kanton sijaitsee eteläisessä kiinassa.</p>
+        </div>
+        </div>
+</body>
+</html>
