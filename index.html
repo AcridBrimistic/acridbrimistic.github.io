@@ -24,7 +24,17 @@ function lol() {
 }
 </script>  
 <style>
-html {
+@keyframes rtext {
+    0% {color: red;}
+    15% {color: yellow;}
+    30% {color: green;}
+    45% {color: blue;}
+    60% {color: purple;}
+    75% {color: pink;}
+  100% {color: turquoise}
+  }
+
+  html {
 background-image: url("korpi.jpg");
 
 background-position: center;
@@ -42,6 +52,8 @@ form {
   }
 .facts {
   color: white;
+  animation-name: rtext;
+  animation-duration: 12s;
   border: 2px double darkblue;
   }
   img {
