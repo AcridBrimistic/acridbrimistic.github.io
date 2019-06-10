@@ -1,6 +1,6 @@
 
 function b1c() {
-
+alert("test");
 window.open("https://acridbrimistic.github.io/conquest.html");
 }
 function b2c() {
