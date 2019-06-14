@@ -20,12 +20,13 @@ body {
 
 }
 
-#_title {
+._title {
+  width: 100%;
   text-shadow: 1px lightgrey;
   margin-left: 120px;
   position: absolute;
   top: 0px;
-  left: 200px;
+  left: 0px;
   font-family: "Helvetica"; 
   color: darkgray;
   text-decoration: bold;
@@ -41,8 +42,7 @@ body {
 #_top_b {
   display: inline-block;
   position: absolute;
-  top: 66px;
-          
+  top: 75px;
   left: 330px;
 
   width: 50%;
@@ -55,7 +55,82 @@ color: grey;
 background-color: white;
 border: none;
 padding: 5px 5px 5px 5px;
+text-decoration: none;
+font-family: "Helvetica";
+}
+.ddw {
+border: 2px solid orange;
+display: inline-block;
+position: absolute;
+left:650px;
+top:25px;
 
+}
+
+.ddw2 {
+border: 2px solid orange;
+display: inline-block;
+position: absolute;
+left:770px;
+top:25px;
+}
+
+.ddw3 {
+border: 2px solid orange;
+display: inline-block;
+position: absolute;
+left:900px;
+top:25px;
+}
+
+.ddw4 {
+border: 2px solid orange;
+display: inline-block;
+position: absolute;
+left:1015px;
+top:25px;
+}
+
+.button_dd {
+  background-color: orange;
+  color: white;
+  padding: 5px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  outline:none;
+}
+.button_dd:hover {
+  background-color: darkgoldenrod;
+}
+.dddiv {
+  position: relative;
+  display: inline-block;
+}
+
+.dd_content {
+  display: none;
+  position: absolute;
+  background-color: #f7f7f7;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px lightgrey;
+  z-index: 1;
+  
+}
+
+.dd_content a {
+  color: black;
+  padding: 7px 20px;
+  text-decoration: none;
+  display: block;
+  outline:none;
+}
+
+
+.dd_content a:hover {background-color: lightgrey;}
+
+.dddiv:hover .dd_content {
+  display: block;
 }
 .b:hover {
 
@@ -67,25 +142,43 @@ text-shadow: 1px 1px lightgrey;
 
 color: darkcyan;
         
-padding-bottom:10px;
+padding-bottom:7px;
 border-bottom: 3px solid darkcyan;
 
 
 }
 
-#main {
+#content_wrapper_small {
 background-color: #f9f9f4;
 position: absolute;
-box-shadow: 3px 3px gray;
 max-width: 100%;
 top:125px;
 width: 98%;
-height: 90%;
 margin: 0 auto;
+height: 50%;
 border: 5px solid lightgrey;
 }
 
-#t {
+#content_wrapper_medium {
+background-color: #f9f9f4;
+position: absolute;
+max-width: 100%;
+top:125px;
+width: 98%;
+margin: 0 auto;
+height:70%;
+border: 5px solid lightgrey;
+}
+
+.text_standard {
+color: #111111;
+text-shadow: 2px 1px lightgrey;
+font-family: "Helvetica";
+text-align: left;
+margin-left: 20px;
+}
+
+.subt {
 text-align: left;
 text-shadow: 2px 2px lightgrey;
 font-family: Helvetica;
@@ -109,19 +202,29 @@ border-right: 2px solid lightgrey;
 width: 50%;
 }
 
-#linktext {
+a.linkbtn {
 text-align: left;
-text-shadow: 1px 1px lightblue;
 font-family: Helvetica;
-color: blue;
-position:relative;
-left: 18px;
+margin-left:18px;
+margin-bottom:10px;
+background-color: #F37F24;
+color: white;
+text-decoration: none;
+padding: 3px 3px 3px 3px;
+border-radius:5px;
+
 }
 
-#linktext:hover {
-color: darkgoldenrod;
+a.linkbtn:hover {
+background-color: #F37000;
 text-shadow: 1px 1px lightgrey;
-
+padding: 4px 4px 4px 4px;
+}
+#links {
+width: 50%;
+position:absolute;
+top:0px;
+right:0px;
 }
 
 #sta {
@@ -201,8 +304,4 @@ position:absolute;
 left:87.5%;
 top:108px;
 text-shadow:1px 1px lightgrey;
-}
-a:hover {
-color: darkgoldenrod;
-
 }
