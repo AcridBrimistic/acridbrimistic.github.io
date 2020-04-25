@@ -3,3 +3,9 @@
   margin: 0 auto;
   color: red;
 }
+.header {
+  float: top;
+  background-color: #d6c6f2;
+  -webkit-border-image: -webkit-gradient(linear, left top, left bottom, from(#00abeb), to(#fff), color-stop(0.5, #fff), color-stop(0.5, #66cc00)) 21 30 30 21 repeat repeat;
+
+}
