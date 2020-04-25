@@ -11,21 +11,23 @@
   width: 100vw;
   max-width: 100vw;
   height: 50px;
-  line-height: 50px;
-
   margin: 0 auto;
   text-align: center;
-
-  float: top;
+  float: left;
   background-color: #101230;
   box-shadow: 0 8px 6px -6px #737373;
   font: 15px Courier, sans;
   color: #fff;
 }
 
+.title {
+display: inline-block;
+vertical-align: middle;
+line-height: 50px;
+}
 .content-container {
-  margin: 30px 30% 0px 30%;
-  background-color: #707070;
+  margin: 80px 30% 0px 30%;
+  background-color: #fff;
 }
 
 .content-text {
