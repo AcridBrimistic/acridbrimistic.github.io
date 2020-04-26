@@ -65,3 +65,10 @@ th, td {
 tbody tr:nth-child(odd) {
   background-color: #f1f1f1;
 }
+
+code {
+  background-color: #f1f1f1;
+  padding: 1px 1px 1px 1px;
+  border: 1px solid #454545;
+  border-radius: 10px;
+}
