@@ -42,5 +42,20 @@
   font: 20px bold Courier, sans;
   text-align: left;
   padding-bottom: 4px;
-  border-bottom: 2px sold #454545;
+  border-bottom: 2px solid #eee;
+}
+
+table {
+  border-collapse: collapse;
+  width: 25%;
+}
+
+th, td {
+  padding: 0.25rem;
+  text-align: left;
+  border: 1px solid #454545;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #202020;
 }
