@@ -70,5 +70,13 @@ code {
   background-color: #f1f1f1;
   padding: 1px 1px 1px 1px;
   border: 1px solid #454545;
-  border-radius: 10px;
+  border-radius: 2px;
+}
+
+.content-note {
+  background-color: #28AA46;
+  border: 1px solid #454545;
+  border-radius: 2px;
+  padding: 3px 3px 3px 3px;
+  color: #fff;
 }
