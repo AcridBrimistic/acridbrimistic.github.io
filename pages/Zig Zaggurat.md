@@ -1,3 +1,0 @@
-- A tribe of bird-like beastmen residing in the [[Silver Ramparts Caverns]].
-- They have dark-vision and rely on ambush tactics, using smoke grenades and toxic blowpipes to disable their enemies.
-- Due to the efforts of [[The Party]] on the 201st day, they agreed on a peaceful coexistence with the dwarves of the [[Silver Ramparts]].

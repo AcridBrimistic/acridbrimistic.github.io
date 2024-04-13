@@ -1,2 +1,0 @@
-- The baron [[Dallon Combs]]' seat of government.
-- Contains an opulent throne room, bathhouse, library, office, dungeon, house arrest, and front desk.
