@@ -1,0 +1,1 @@
+- A tag for all unique locations.

@@ -1,0 +1,23 @@
+tags:: Places
+
+- **Place**
+	- **Description:**
+		- A major city and duchy near the southeastern border of [[Bretonnia]].
+	- **Inhabitants:**
+		- [[Felix Farber]]
+		- [[Gabriel Pelissier]]
+		- [[Nissan Almeira]]
+		- [[Astolfo]]
+		- [[Cibi]]
+		- [[Guille de Meyermonte]]
+		- Humans, dwarves, wood elves
+	- **Points of Interest:**
+		- [[Rammes' Home]]
+		- [[Calekirk]]
+		- [[Darkwater]]
+	- **Travel:**
+		- [[Athel Loren]]
+		- [[Massif Orcal]]
+		- [[Montfort]]
+		- [[Silver Ramparts]]
+	-

@@ -1,0 +1,1 @@
+- A race of extremely primitive and aggressive marauding tribal humanoid creatures, who raid and wage war against other races and each other.
